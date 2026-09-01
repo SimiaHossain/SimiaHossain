@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Parmita Hossain Simia
 
-### 💻 Software Engineer · AI/ML Enthusiast · Full-Stack Developer
+### 💻CSE Graduate  · AI/ML Enthusiast · Full-Stack Developer
 
 **Building intelligent solutions, practical software, and modern web applications.**
 
