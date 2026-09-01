@@ -2,9 +2,8 @@
 
 # 👋 Hi, I'm Parmita Hossain Simia
 
-### 💻CSE Graduate  · AI/ML Enthusiast · Full-Stack Developer
+### 💻CSE Graduate  · AI/ML Enthusiast · Data Analyst
 
-**Building intelligent solutions, practical software, and modern web applications.**
 
 <p>
   <a href="https://www.linkedin.com/in/parmita-hossain-simia-b433b9324/">
