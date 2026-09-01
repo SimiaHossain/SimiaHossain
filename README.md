@@ -2,8 +2,7 @@
 
 # 👋 Hi, I'm Parmita Hossain Simia
 
-### 💻CSE Graduate  · AI/ML Enthusiast · Data Analyst
-
+### 🧪 Software Testing · 🔬 Research · 📊 Data Analysis · 💡 Ideation · 🤝 Collaboration
 
 <p>
   <a href="https://www.linkedin.com/in/parmita-hossain-simia-b433b9324/">
@@ -22,18 +21,17 @@
 
 ## 🧑‍💻 About Me
 
-</div>
-
-<div align="center">
-
-| 🎯 **Focus**   | 💡 **Details**                                              |
-| -------------- | ----------------------------------------------------------- |
-| 🎯 Role        | Researcher· AI/ML Enthusiast · Data Analyst |
-| 📍 Location    | Bangladesh · Open to Remote Opportunities                   |
-| 🔬 Interests   | Computer Vision · Machine Learning · Explainable AI         |
-| 🌐 Development | Full-Stack Web Engineering                                  |
-| 🚀 Building    | AI-powered and production-oriented software                 |
-| 💡 Values      | Problem Solving · Continuous Learning · Practical Impact    |
+| 🎯 **Focus**         | 💡 **Details**                                                                          |
+| -------------------- | --------------------------------------------------------------------------------------- |
+| 🧪 **Testing & QA**  | Software testing · Test case design · Bug identification · Quality assurance            |
+| 🔬 **Research**      | Research methodology · Literature review · Problem investigation · Analytical thinking  |
+| 📚 **Documentation** | Technical documentation · Research documentation · Requirements · Reports               |
+| 💡 **Ideation**      | Creative problem solving · Product ideas · Solution brainstorming · Concept development |
+| 📊 **Data Analysis** | Data interpretation · Analytical thinking · Data-driven insights                        |
+| 🎤 **Presentation**  | Research presentation · Technical communication · Visual storytelling                   |
+| 🤝 **Collaboration** | Teamwork · Cross-functional collaboration · Knowledge sharing                           |
+| 🤖 **Vibe Coding**   | AI-assisted coding · Prototyping · Exploring ideas through AI tools                     |
+| 📍 **Location**      | Bangladesh · Open to Remote Opportunities                                               |
 
 </div>
 
@@ -43,12 +41,21 @@
 
 ## 🚀 What I Do
 
-🧠 **Artificial Intelligence & Machine Learning**
-👁️ **Computer Vision & Image-Based AI**
-🔍 **Explainable AI (XAI)**
-💻 **Software & Web Applications**
-🌐 **Full-Stack Development**
-📊 **Data-Driven Solutions**
+🧪 **Software Testing & Quality Assurance**
+
+🔬 **Research & Investigation**
+
+📚 **Technical & Research Documentation**
+
+💡 **Idea Generation & Problem Solving**
+
+📊 **Data Analysis & Interpretation**
+
+🎤 **Presentation & Communication**
+
+🤝 **Collaborative Teamwork**
+
+🤖 **AI-Assisted Development & Vibe Coding**
 
 </div>
 
@@ -68,12 +75,16 @@
 
 </div>
 
+<div align="center">
+
 | **Attribute**  | **Details**                                                    |
 | -------------- | -------------------------------------------------------------- |
 | **Stack**      | `YOLOv12-Seg` · `MobileNetV2` · `PyTorch`                      |
 | **Task**       | Instance segmentation → damage classification → severity score |
 | **Impact**     | Eliminates manual visual inspection in claim pipelines         |
 | **Repository** | [DeepCarDamage](https://github.com/ahsitab/DeepCarDamage)      |
+
+</div>
 
 ---
 
@@ -85,12 +96,16 @@
 
 </div>
 
+<div align="center">
+
 | **Attribute**   | **Details**                                                   |
 | --------------- | ------------------------------------------------------------- |
 | **Stack**       | `CatBoost` · `SHAP` · `Remote Sensing APIs`                   |
 | **Performance** | R² = **0.988** on held-out test set                           |
 | **XAI Layer**   | SHAP force plots for non-technical stakeholder communication  |
 | **Repository**  | [ClimaDecideRisk](https://github.com/ahsitab/ClimaDecideRisk) |
+
+</div>
 
 ---
 
@@ -102,6 +117,8 @@
 
 </div>
 
+<div align="center">
+
 | **Attribute**  | **Details**                                                       |
 | -------------- | ----------------------------------------------------------------- |
 | **Stack**      | `PHP 8` · `MySQL` · `JavaScript ES6+` · `Docker`                  |
@@ -109,49 +126,141 @@
 | **Focus**      | High-concurrency food delivery and real-time logistics            |
 | **Repository** | [QuickBite](https://github.com/ahsitab/QuickBite)                 |
 
+</div>
+
 ---
 
 <div align="center">
 
-# 🛠️ Technical Stack
-
-### 🤖 AI / ML / Computer Vision
+# 🧪 Testing & Quality Skills
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logoColor=black" />
-  <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=flat-square&logoColor=black" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/SHAP-XAI-8A2BE2?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+
+<img src="https://img.shields.io/badge/Software%20Testing-Quality%20Assurance-4CAF50?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Test%20Cases-Design-2196F3?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Bug%20Detection-Analysis-FF9800?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Functional-Testing-9C27B0?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Usability-Testing-00ACC1?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Quality-Assurance-E91E63?style=for-the-badge" />
+
 </p>
 
-`Python` · `PyTorch` · `TensorFlow` · `OpenCV` · `YOLO` · `CatBoost` · `scikit-learn` · `SHAP` · `Hugging Face`
+</div>
 
-### 🌐 Full-Stack Development
+---
+
+<div align="center">
+
+# 🔬 Research & Documentation
 
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+
+`Research Methodology` · `Literature Review` · `Data Analysis`
+
+`Technical Documentation` · `Research Documentation` · `Report Writing`
+
+`Requirement Analysis` · `Problem Investigation` · `Analytical Thinking`
+
 </p>
 
-### 🗄️ Data, Infrastructure & DevOps
+</div>
+
+---
+
+<div align="center">
+
+# 💡 Ideas & Problem Solving
 
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+
+🧠 **Creative Thinking**
+
+💡 **Idea Generation**
+
+🔎 **Problem Identification**
+
+🧩 **Solution Exploration**
+
+📊 **Data-Driven Thinking**
+
+🚀 **Concept Development**
+
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🎤 Presentation & Communication
+
+<p>
+
+🎤 **Technical Presentations**
+
+🔬 **Research Presentations**
+
+📊 **Data Visualization**
+
+📝 **Clear Documentation**
+
+💬 **Technical Communication**
+
+📖 **Storytelling & Knowledge Sharing**
+
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🤝 Collaboration
+
+<p>
+
+🌟 **Team-Oriented**
+
+🤝 **Cross-Functional Collaboration**
+
+💬 **Effective Communication**
+
+🧠 **Knowledge Sharing**
+
+🔄 **Adaptability**
+
+🎯 **Collaborative Problem Solving**
+
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🤖 AI & Vibe Coding
+
+<p>
+
+I enjoy using AI tools to explore ideas, build prototypes, experiment with solutions,
+and turn concepts into working applications.
+
+</p>
+
+<p>
+
+`AI-Assisted Coding` · `Prompt Engineering` · `Rapid Prototyping`
+
+`Idea → Prototype → Test → Improve`
+
 </p>
 
 </div>
@@ -163,11 +272,11 @@
 # 📊 GitHub Analytics
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SimiaHossain&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimiaHossain&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 </div>
@@ -178,13 +287,21 @@
 
 # 🎯 Current Goals
 
-🚀 Strengthen Software Engineering Skills
-🤖 Build Impactful AI/ML Applications
-👁️ Advance Computer Vision Expertise
-🔍 Explore Explainable AI
-🌐 Build Scalable Full-Stack Applications
-📚 Learn Emerging AI Technologies
+🧪 Strengthen Software Testing & QA Expertise
+
+🔬 Conduct Meaningful Research
+
+📚 Improve Technical & Research Documentation
+
+📊 Develop Stronger Data Analysis Skills
+
+💡 Turn Ideas Into Practical Solutions
+
+🎤 Improve Technical & Research Presentation
+
 🤝 Collaborate on Meaningful Projects
+
+🤖 Explore AI-Assisted Development & Vibe Coding
 
 </div>
 
@@ -194,8 +311,8 @@
 
 # 🤝 Let's Connect
 
-**I’m open to research collaborations, software engineering opportunities,
-AI/ML projects, and ambitious full-stack applications.**
+**I’m interested in software testing, research, documentation, data analysis,
+idea development, presentations, collaborative projects, and AI-assisted innovation.**
 
 <br>
 
@@ -209,9 +326,9 @@ AI/ML projects, and ambitious full-stack applications.**
 
 <br><br>
 
-<i>✨ Building intelligent solutions, one project at a time.</i>
+<i>✨ Research. Test. Document. Collaborate. Build ideas with AI.</i>
 
-<br>
+<br><br>
 
 ⭐ **Thanks for visiting my profile!**
 
