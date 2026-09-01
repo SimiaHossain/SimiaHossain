@@ -28,7 +28,7 @@
 
 | 🎯 **Focus**   | 💡 **Details**                                              |
 | -------------- | ----------------------------------------------------------- |
-| 🎯 Role        | Software Engineer · AI/ML Enthusiast · Full-Stack Developer |
+| 🎯 Role        | Researcher· AI/ML Enthusiast · Data Analyst |
 | 📍 Location    | Bangladesh · Open to Remote Opportunities                   |
 | 🔬 Interests   | Computer Vision · Machine Learning · Explainable AI         |
 | 🌐 Development | Full-Stack Web Engineering                                  |
